@@ -7,7 +7,7 @@ Aplicação de lista de tarefas desenvolvida para praticar lógica de programaç
 - Adicionar tarefas  
 - Marcar como concluídas  
 - Interface clean e intuitiva  
-- Armazenamento no navegador (LocalStorage)  
+- Armazenamento no navegador  
 
 **Tecnologias**
 
