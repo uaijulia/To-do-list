@@ -1,24 +1,24 @@
-**To-Do List**
+# Gerenciador de Tarefas (To Do List)
 
-Aplicação de lista de tarefas desenvolvida para praticar lógica de programação e manipulação do DOM com JavaScript.
+Projeto desenvolvido como parte dos estudos em Análise e Desenvolvimento de Sistemas.
 
-**Funcionalidades**
+## 💡 Objetivo
+Criar uma aplicação simples para gerenciamento de tarefas, focando em organização, usabilidade e experiência do usuário.
 
-- Adicionar tarefas  
-- Marcar como concluídas  
-- Interface clean e intuitiva  
-- Armazenamento no navegador  
+## 🚀 Funcionalidades
+- Adicionar tarefas
+- Marcar como concluída
+- Remover tarefas
+- Organização de atividades
 
-**Tecnologias**
+## 🛠️ Tecnologias utilizadas
+- (coloca aqui: HTML, CSS, JavaScript ou o que você usou)
 
-- HTML  
-- CSS  
-- JavaScript  
+## 📌 Aprendizados
+- Lógica de programação
+- Manipulação de dados
+- Estruturação de interface
+- Organização de código
 
-**Preview**
-
-![Preview](preview.png)
-
-**Objetivo**
-
-Projeto desenvolvido com foco em aprendizado prático e construção de portfólio na área de desenvolvimento de sistemas.
+## 🔗 Aplicação
+(se tiver deploy, coloca aqui)
