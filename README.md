@@ -1,22 +1,32 @@
-# Gerenciador de Tarefas (To Do List)
+### Gerenciador de Tarefas (Task Manager)
 
-Projeto desenvolvido como parte dos estudos em Análise e Desenvolvimento de Sistemas.
+Aplicação desenvolvida como parte da minha transição para a área de tecnologia, durante os estudos em Análise e Desenvolvimento de Sistemas.
 
-#💡 Objetivo
-Criar uma aplicação simples para gerenciamento de tarefas, focando em organização, usabilidade e experiência do usuário.
+O projeto tem como objetivo simular um sistema simples de gestão de tarefas, com foco em organização, clareza de interface e experiência do usuário — conceitos diretamente aplicáveis à gestão de demandas em ambientes de atendimento ao cliente.
 
-#🚀 Funcionalidades
-- Adicionar tarefas
-- Marcar como concluída
-- Remover tarefas
-- Organização de atividades
+### Funcionalidades
 
-#🛠️ Tecnologias utilizadas
-- (HTML, CSS, JavaScript)
+* Criação e gerenciamento de tarefas
+* Marcação de tarefas como concluídas
+* Remoção de itens da lista
+* Organização visual das atividades
 
-# 📌 Aprendizados
-- Lógica de programação
-- Manipulação de dados
-- Estruturação de interface
-- Organização de código
+### Tecnologias utilizadas
+
+* HTML
+* CSS
+* JavaScript
+
+### Destaques do projeto
+
+* Estruturação lógica de dados e manipulação de estado
+* Foco em usabilidade e simplicidade da interface
+* Aplicação prática de conceitos de programação voltados à resolução de problemas do dia a dia
+* Organização de código visando legibilidade e manutenção
+
+### Contexto e aprendizados
+
+Durante o desenvolvimento, foram trabalhados conceitos fundamentais de lógica de programação, manipulação de elementos na interface e organização de fluxos de interação com o usuário.
+
+O projeto também reforça a conexão entre tecnologia e gestão de demandas, área na qual possuo experiência profissional, especialmente em ambientes de atendimento e operações.
 
